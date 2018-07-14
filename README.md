@@ -1,7 +1,7 @@
 # Attention Group Hackathon
 ## Overview
 
-This repository contains the beginnings of a hackathon brainstorm for the EPSCoR graduate students at the 2018 meeting at Brown University.
+This repository contains the beginnings of a hackathon brainstorm for the EPSCoR graduate students at the [2018 meeting at Brown University](https://www.attentioninthebrain.com/2018-annual-epscor-attention-consortium-conference/).
 
 ## Contributing ideas to this project
 
